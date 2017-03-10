@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AdmoreSDKDeepLink_Example' do
+  pod 'AdmoreSDKDeepLink', :path => '../'
+
+  target 'AdmoreSDKDeepLink_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

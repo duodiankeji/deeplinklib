@@ -1,0 +1,16 @@
+PODS:
+  - AdmoreSDKDeepLink (0.1.0)
+
+DEPENDENCIES:
+  - AdmoreSDKDeepLink (from `../`)
+
+EXTERNAL SOURCES:
+  AdmoreSDKDeepLink:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AdmoreSDKDeepLink: 00cc5725e37e871f1cf6acba028f0a9b79ac574f
+
+PODFILE CHECKSUM: 1b8c1b033c2a0cf41eec92b5c0f98e5dabeaa841
+
+COCOAPODS: 1.1.1
